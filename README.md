@@ -1,2 +1,2 @@
 # Amazon-Clone
-Author Muhammad Ali Shah
+Author Muhammad Ali Shah (Syed Ali)
